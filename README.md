@@ -10,7 +10,7 @@
 
 ![](http://profile-counter.glitch.me/grbnb/count.svg)
 
-![](https://count.getloli.com/get/@:grbnb)
+![](https://count.getloli.com/get/@grbnb?theme=rule34)
 ## 下载量
 总下载量：https://img.shields.io/npm/dt/{项目名称}.svg\
 月下载量：https://img.shields.io/npm/dm/{项目名称}.svg\
