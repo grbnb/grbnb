@@ -3,9 +3,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grbnb&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-访问量
+  
+# 访问量 :cn:
 ![](https://visitor-badge.glitch.me/badge?page_id=littleTreeme)
 
+![](http://profile-counter.glitch.me/grbnb/count.svg)
 ## 下载量
 总下载量：https://img.shields.io/npm/dt/{项目名称}.svg\
 月下载量：https://img.shields.io/npm/dm/{项目名称}.svg\
