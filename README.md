@@ -6,3 +6,7 @@
 访问量
 ![](https://visitor-badge.glitch.me/badge?page_id=littleTreeme)
 ![](https://img.shields.io/npm/dt/jdx.svg)
+## 下载量
+总下载量：https://img.shields.io/npm/dt/{项目名称}.svg\
+月下载量：https://img.shields.io/npm/dm/{项目名称}.svg\
+周下载量：https://img.shields.io/npm/dw/{项目名称}.svg
