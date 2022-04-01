@@ -3,4 +3,6 @@
 
 
 ![](http://antzuhl.cn:4000/get/@littleTreeme)
+访问量
+![](https://visitor-badge.glitch.me/badge?page_id=littleTreeme)
 ![](https://img.shields.io/npm/dt/jdx.svg)
