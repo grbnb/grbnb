@@ -9,6 +9,8 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=littleTreeme)
 
 ![](http://profile-counter.glitch.me/grbnb/count.svg)
+
+![:name](https://count.getloli.com/get/@:name)
 ## 下载量
 总下载量：https://img.shields.io/npm/dt/{项目名称}.svg\
 月下载量：https://img.shields.io/npm/dm/{项目名称}.svg\
