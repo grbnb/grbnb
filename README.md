@@ -4,7 +4,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=grbnb)
 ![](http://profile-counter.glitch.me/grbnb/count.svg)
 
-![](http://moecount.glitch.me/get/@grbnb?theme=rule34)
+![](https://moe-counter-mongo-grbnb.vercel.app/get/@grbnb?theme=rule34)
 
 <!-- GitHub 数据统计 -->
 <img height="145px" src="https://githubstatus-grbnb.vercel.app/api?username=grbnb&hide_title=true&hide_border=true&show_icons=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
